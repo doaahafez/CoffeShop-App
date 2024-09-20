@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "517352605941",
+    "firebase_url": "https://coffeeshop-f975d-default-rtdb.firebaseio.com",
+    "project_id": "coffeeshop-f975d",
+    "storage_bucket": "coffeeshop-f975d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517352605941:android:40ef5058932cd1c178ddbc",
+        "android_client_info": {
+          "package_name": "com.etisal.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPLC3WaWAtg3DGvG_7ilFR5NhEEKWvJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
